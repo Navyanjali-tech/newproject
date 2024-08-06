@@ -353,13 +353,13 @@ form .btn{
 /*Copyright Section Ends*/
 
 /*CSS Responsive Code*/
-@media only screen and (max-width: 300px){
+@media only screen and (max-width: 600px){
     #header{
         background-image: url(anjali.jpeg);  
 
     }
     .header-text {
-        margin-top: 200px;
+        margin-top: 300px;
         font-size: 24px;
     }
     .header-text h1{
@@ -387,6 +387,7 @@ form .btn{
     nav ul .fa-solid{
         position: absolute;
         top: 20px;
+        left: 25px;
         cursor: pointer;
     }
     .sub-title{
@@ -399,7 +400,8 @@ form .btn{
         margin-bottom: 30px;
     }
     .about-col-1 img{
-        width: 50%;
+        width: 80%;
+        height: 90%;
     }
     .about-col-2{
         font-size: 14px;
