@@ -353,6 +353,9 @@ form .btn{
 /*Copyright Section Ends*/
 
 /*CSS Responsive Code*/
+nav.fa-solid{
+    display: none;
+}
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(anjali.jpeg);
